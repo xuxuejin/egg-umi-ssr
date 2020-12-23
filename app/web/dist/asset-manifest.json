@@ -1,0 +1,20 @@
+{
+  "layouts.js": "/layouts.js",
+  "layouts.js.map": "/layouts.js.map",
+  "p__404.js": "/p__404.js",
+  "p__404.js.map": "/p__404.js.map",
+  "p__About.js": "/p__About.js",
+  "p__About.js.map": "/p__About.js.map",
+  "p__Home.js": "/p__Home.js",
+  "p__Home.js.map": "/p__Home.js.map",
+  "umi.css": "/umi.css",
+  "umi.js": "/umi.js",
+  "umi.css.map": "/umi.css.map",
+  "umi.js.map": "/umi.js.map",
+  "vendors~p__About.js": "/vendors~p__About.js",
+  "vendors~p__About.js.map": "/vendors~p__About.js.map",
+  "vendors~p__About~p__Home.css": "/vendors~p__About~p__Home.chunk.css",
+  "vendors~p__About~p__Home.js": "/vendors~p__About~p__Home.js",
+  "vendors~p__About~p__Home.css.map": "/vendors~p__About~p__Home.chunk.css.map",
+  "vendors~p__About~p__Home.js.map": "/vendors~p__About~p__Home.js.map"
+}
